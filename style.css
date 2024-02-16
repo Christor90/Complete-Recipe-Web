@@ -411,8 +411,8 @@ footer {
   bottom: 0;
 }
 
-h3 {
-  color: rgb(213, 216, 16);
+.footer-contents h3 {
+  color: rgb(164, 220, 182);
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
   margin-bottom: 15px;
